@@ -89,7 +89,7 @@ const Roadmap4 = () => {
   const { ref: row3Ref, inView: row3InView } = useInView({ triggerOnce: true });
 
   return (
-    <section className="w-full py-12 px-24 ">
+    <section className="w-full py-12 px-56 ">
       <h1 className="text-center text-4xl font-bold mb-12">Roadmap</h1>
 
       {/* Row 1 - Image Left, Text Right */}
