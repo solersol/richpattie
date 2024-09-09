@@ -43,7 +43,7 @@ const App = () => {
     return <LoadingScreen />;
   }
 return(
-  <main className="relative bg-[#f8879c] pt-10 " >
+  <main className="relative bg-[#32a5df] pt-10 " >
     <Nav />
     {/* <section className="w-full h-screen bg-cover bg-center " style={{ backgroundImage: `url(${main3})` }}><ComingSoon /></section> */}
    
@@ -52,6 +52,7 @@ return(
       <Separator />
       <Roadmap4 />
       <Gallery />
+      <Chart />
 
     
 
