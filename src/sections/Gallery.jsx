@@ -19,17 +19,17 @@ const Gallery = () => {
           ref={titleRef}
           className={`text-4xl font-bold mb-6 transition-transform duration-700 ${titleInView ? 'translate-y-0 opacity-100' : '-translate-y-10 opacity-0'}`}
         >
-          Our Fun Gallery
+          Who's Rich Pattie?
         </h1>
         <p
           ref={para1Ref}
-          className={`text-gray-600 text-lg mb-4 max-w-2xl transition-transform duration-700 ${para1InView ? 'translate-x-0 opacity-100' : '-translate-x-10 opacity-0'}`}
+          className={`text-black text-lg mb-4 max-w-2xl transition-transform duration-700 ${para1InView ? 'translate-x-0 opacity-100' : '-translate-x-10 opacity-0'}`}
         >
           Explore our carefully curated selection of images that highlight some of the most amazing moments.
         </p>
         <p
           ref={para2Ref}
-          className={`text-gray-600 text-lg max-w-2xl transition-transform duration-700 ${para2InView ? 'translate-x-0 opacity-100' : 'translate-x-10 opacity-0'}`}
+          className={`text-black text-lg max-w-2xl transition-transform duration-700 ${para2InView ? 'translate-x-0 opacity-100' : 'translate-x-10 opacity-0'}`}
         >
           Every image tells a story, capturing both the big picture and the little details that make every experience unique.
         </p>
@@ -63,7 +63,7 @@ const Gallery = () => {
       </div>
 
       {/* Centered Bottom Image */}
-      <div className="flex justify-center mt-10">
+      {/* <div className="flex justify-center mt-10">
         <div
           ref={img3Ref}
           className={`transition-transform duration-700 ${img3InView ? 'scale-100 opacity-100' : 'scale-90 opacity-0'}`}
@@ -74,7 +74,7 @@ const Gallery = () => {
             className="w-[150px] lg:w-[300px] h-auto rounded-lg border-4 border-black object-cover"
           />
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };

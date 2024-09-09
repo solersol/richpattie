@@ -52,15 +52,7 @@ return(
       <Separator />
       <Roadmap4 />
       <Gallery />
-      <Separator />
 
-
- 
-    <section className="w-full h-screen bg-cover bg-center   " style={{ backgroundImage: `url(${bgImage2})` }}>
-      <Roadmap2 />
-    </section>
-    <About />
-    <Separator />
     
 
     <Separator />
