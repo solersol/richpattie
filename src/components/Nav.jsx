@@ -17,7 +17,7 @@ const Nav = () => {
           {/* Twitter and Telegram Icons */}
           <div className="flex md:order-2 space-x-3 rtl:space-x-reverse">
             <a
-              href="https://twitter.com/"
+              href="https://x.com/PattieOnSol"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-full overflow-hidden border-2 border-black hover:scale-110 transition-transform"
