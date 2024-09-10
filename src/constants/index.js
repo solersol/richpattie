@@ -2,9 +2,10 @@ import { facebook, instagram, twitter } from "../assets/icons";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
-    { href: "#tokenomics", label: "Socials" },
-    { href: "#about", label: "About " },
     { href: "#roadmap", label: "Roadmap" },
+    { href: "#about", label: "About " },
+    { href: "#chart", label: "Chart" },
+
 ];
 
 export const socialMedia = [

@@ -43,7 +43,7 @@ import { chartImage } from '../assets/images'; // Replace with your actual image
 
 const Chart = () => {
   return (
-    <section className="relative w-full min-h-screen flex justify-center items-center bg-cover bg-center p-4 md:p-8">
+    <section id="chart"  className="relative  w-full min-h-screen flex justify-center items-center bg-cover bg-center p-4 md:p-8">
       <div className="w-full max-w-6xl flex flex-col lg:flex-row items-center gap-8 mb-12 md:mb-32 bg-black bg-opacity-50 p-4 md:p-8 rounded-lg">
         {/* Iframe Section */}
         <div className="w-full lg:w-2/3">

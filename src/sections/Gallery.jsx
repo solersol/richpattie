@@ -12,12 +12,12 @@ const Gallery = () => {
   const { ref: img3Ref, inView: img3InView } = useInView({ triggerOnce: true });
 
   return (
-    <section className="w-full py-16 ">
+    <section id="about"  className="w-full py-16 ">
       {/* Row 1 - Title and Paragraphs */}
-      <div className="flex flex-col items-center text-center mb-12 px-6">
+      <div className="flex flex-col items-center text-center mb-12 px-6 font-Matemasie">
         <h1
           ref={titleRef}
-          className={`text-4xl font-bold mb-6 transition-transform duration-700 ${titleInView ? 'translate-y-0 opacity-100' : '-translate-y-10 opacity-0'}`}
+          className={`text-4xl font-bold mb-6 font-Matemasie transition-transform duration-700 ${titleInView ? 'translate-y-0 opacity-100' : '-translate-y-10 opacity-0'}`}
         >
           Who's Rich Pattie?
         </h1>
@@ -25,13 +25,13 @@ const Gallery = () => {
           ref={para1Ref}
           className={`text-black text-lg mb-4 max-w-2xl transition-transform duration-700 ${para1InView ? 'translate-x-0 opacity-100' : '-translate-x-10 opacity-0'}`}
         >
-          Explore our carefully curated selection of images that highlight some of the most amazing moments.
+          Life wasn't always the best Rich $PATTIE was once a broke piece of meat that everyone  used to laugh at.
         </p>
         <p
           ref={para2Ref}
           className={`text-black text-lg max-w-2xl transition-transform duration-700 ${para2InView ? 'translate-x-0 opacity-100' : 'translate-x-10 opacity-0'}`}
         >
-          Every image tells a story, capturing both the big picture and the little details that make every experience unique.
+          Thanks to you now lil patie is not longer broke and has now got the best burgers in Crypto Town
         </p>
       </div>
 

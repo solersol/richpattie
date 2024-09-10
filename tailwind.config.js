@@ -22,7 +22,8 @@ export default {
         montserrat: ['Montserrat', 'sans-serif'],
         anton: ['Anton SC', 'sans-serif'],
         comic: ['Comic Neue', 'cursive'],
-        elite: ['Special Elite', 'system-ui']
+        elite: ['Special Elite', 'system-ui'],
+        Matemasie: ["Matemasie"," sans-serif"]
       },
       colors: {
         'primary': "#ECEEFF",

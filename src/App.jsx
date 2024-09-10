@@ -52,19 +52,8 @@ return(
       <Separator />
       <Roadmap4 />
       <Gallery />
-      <Chart />
-
-    
-
-    <Separator />
-
-
-        
-      
-     
-
-
-    <StickyFooter />
+      {/* <Chart /> */}
+      <StickyFooter />
   </main>
 );
 };

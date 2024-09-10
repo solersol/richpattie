@@ -38,12 +38,12 @@ const Hero = () => {
     <section id="home" className="w-full h-screen flex flex-col justify-center items-center bg-cover bg-center">
       {/* Centered Text and Button */}
       <div className="flex-grow flex flex-col mt-44 justify-center items-center">
-        <h1 className="font-elite text-[35px] text-center px-4 break-words font-black text-[#fff] animate-slide-in-left">
+        <h1 className="font-Matemasie text-[35px] text-center px-4 break-words font-black text-[#fff] animate-slide-in-left">
           CA:
         </h1>
 
-        <a href="https://pump.fun/">
-          <button className="animate-pulse mt-6 mb-10 bg-[#6b81d6] text-[#000] px-28 py-6 hover:bg-[#425973] border-4 border-black font-black font-elite text-[24px]">
+        <a href="https://dexscreener.com/">
+          <button className="animate-pulse mt-6 mb-10 bg-[#6b81d6] text-[#000] px-28 py-6 hover:bg-[#425973] border-4 border-black font-black font-Matemasie text-[24px]">
             BUY $PATTIE
           </button>
         </a>
