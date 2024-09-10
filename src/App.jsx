@@ -52,7 +52,7 @@ return(
       <Separator />
       <Roadmap4 />
       <Gallery />
-      {/* <Chart /> */}
+      <Chart />
       <StickyFooter />
   </main>
 );
