@@ -39,10 +39,10 @@ const Hero = () => {
       {/* Centered Text and Button */}
       <div className="flex-grow flex flex-col mt-44 justify-center items-center">
         <h1 className="font-Matemasie text-[35px] text-center px-4 break-words font-black text-[#fff] animate-slide-in-left">
-          CA:
+          CA: EnYDAJYZ5aWQGWE8XxiZfnjZjuLrCnFvG9VRkAaVvHPK
         </h1>
 
-        <a href="https://dexscreener.com/">
+        <a href="https://dexscreener.com/solana/cdorsluabooynt4rydt358qqv5cr5siamwahgejxqb9h">
           <button className="animate-pulse mt-6 mb-10 bg-[#6b81d6] text-[#000] px-28 py-6 hover:bg-[#425973] border-4 border-black font-black font-Matemasie text-[24px]">
             BUY $PATTIE
           </button>
