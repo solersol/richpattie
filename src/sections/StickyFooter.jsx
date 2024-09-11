@@ -10,7 +10,7 @@ const StickyFooter = () => {
         <a href="https://x.com/PattieOnSol">
           <img src={img1} alt="Image 1" className="w-16 h-16 sm:w-12 sm:h-12 transition-transform transform hover:scale-125" />
         </a>
-        <a href="https://pump.fun/board">
+        <a href="https://pump.fun/2vmAWL2b38GhnZhJgfvBsT7uCededGmczj4GZ589pump">
           <img src={img2} alt="Image 2" className="w-16 h-16 sm:w-12 sm:h-12 transition-transform transform hover:scale-125" />
         </a>
         <a href="https://t.me/RICHPATTIEsol">
