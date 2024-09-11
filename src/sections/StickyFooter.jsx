@@ -1,7 +1,7 @@
 // components/StickyFooter.jsx
 
 import React from 'react';
-import {img1, img4, img3} from '../assets/images'; // Update with your image path
+import {img1, img2, img3} from '../assets/images'; // Update with your image path
 
 const StickyFooter = () => {
   return (
@@ -10,8 +10,8 @@ const StickyFooter = () => {
         <a href="https://x.com/PattieOnSol">
           <img src={img1} alt="Image 1" className="w-16 h-16 sm:w-12 sm:h-12 transition-transform transform hover:scale-125" />
         </a>
-        <a href="https://dexscreener.com/solana/cdorsluabooynt4rydt358qqv5cr5siamwahgejxqb9h">
-          <img src={img4} alt="Image 2" className="w-16 h-16 sm:w-12 sm:h-12 transition-transform transform hover:scale-125" />
+        <a href="https://pump.fun/board">
+          <img src={img2} alt="Image 2" className="w-16 h-16 sm:w-12 sm:h-12 transition-transform transform hover:scale-125" />
         </a>
         <a href="https://t.me/RichPattie">
           <img src={img3} alt="Image 3" className="w-16 h-16 sm:w-12 sm:h-12 transition-transform transform hover:scale-125" />

@@ -48,7 +48,7 @@ const Chart = () => {
         {/* Iframe Section */}
         <div className="w-full lg:w-2/3">
           <iframe
-            src="https://dexscreener.com/solana/cdorsluabooynt4rydt358qqv5cr5siamwahgejxqb9h?embed=1&theme=dark&trades=0&info=0"
+            src="https://pump.fun/board?embed=1&theme=dark&trades=0&info=0"
             width="100%"
             height="300px" // Set height to adjust for mobile
             loading="lazy"
