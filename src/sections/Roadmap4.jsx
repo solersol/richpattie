@@ -34,7 +34,7 @@ const Roadmap4 = () => {
           <div className="border border-black rounded-lg p-6 bg-white bg-opacity-50">
             <h2 className="text-2xl font-bold font-Matemasie mb-4">Phase I</h2>
             <p className="text-gray-600 font-Matemasie">
-             100% LP BURNT -  DEX BANNER PAID - MOONTOK PAID
+             PUMPFUN FAIR LAUNCH -  DEX PRE PAID - BUMP IT PAID
             </p>
           </div>
         </div>
@@ -50,7 +50,7 @@ const Roadmap4 = () => {
           <div className="border border-black rounded-lg p-6 bg-white bg-opacity-50">
             <h2 className="text-2xl font-bold font-Matemasie mb-4">Phase II</h2>
             <p className="text-gray-600 font-Matemasie">
-              3 x KOL's - Finders Trending - Orbit Volume Boost
+              3 x KOL's - Live BURNS - Orbit Volume Boost
             </p>
           </div>
         </div>
@@ -84,7 +84,7 @@ const Roadmap4 = () => {
           <div className="border border-black rounded-lg p-6 bg-white bg-opacity-50">
             <h2 className="text-2xl font-bold mb-4 font-Matemasie">Phase III</h2>
             <p className="text-gray-600 font-Matemasie">
-              On the 12th of September Rich $PATTIE will be in a secret pop up location in San Francisco come meet us
+              On the 14th of September Rich $PATTIE will be in a secret pop up location in San Francisco come meet us
             </p>
           </div>
         </div>
